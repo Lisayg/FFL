@@ -3,17 +3,15 @@
 <hr>
 
 Hi there!<br><br>
-This is my first JS game project.<br>
+This is my first JS game.<br>
 Have fun, and good luck!
 
-<h3>Keys:</h3>
+<h3>Keys & Mouse:</h3>
 * 'W' : Increase power.<br>
 * 'S' : Decrease power.<br>
 * 'Esc' : Return to menu.<br>
-
-<h3>Mouse:</h3>
 * click : shoot <br>
-* Aim by moving mouse<br>
+* Aim by moving cursor<br>
 
 <h3>Demo:</h3>
 https://lisayg.github.io/FFP/
