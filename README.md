@@ -22,6 +22,8 @@ https://lisayg.github.io/FFP/
   LAB.js <br>
   https://github.com/getify/LABjs
 
+Special thanks to BTS, (G)I-DLE & Jung Wan MOK! <br>
+
 MIT License (c) Copyright 2018 
 
 Licensed under Creative Commons: By Attribution 3.0 License<br>
