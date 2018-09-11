@@ -6,21 +6,21 @@ Hi there! This is my first JS game.
 Have fun, and good luck!
 
 <h3>Keys & Mouse:</h3>
-* 'W' : power up <br>
-* 'S' : power down <br>
-* 'Esc' : Return to menu <br>
+* W : power up <br>
+* S : power down <br>
+* Esc : menu <br>
 * click : shoot <br>
-* Mouse : Aim: <br>
+* Mouse : Aim <br>
 
 <h3>Demo:</h3>
 https://lisayg.github.io/FFP/
 
 <h3>Credits:</h3>
-* Building JavaScript Games by Arjan Egges (Apress, 2014):<br>
+* Building JavaScript Games by Arjan Egges (Apress, 2014)
   https://github.com/apress/building-javascript-games
   
   
-* LAB.js :
+* LAB.js 
   https://github.com/getify/LABjs
 
 MIT License
