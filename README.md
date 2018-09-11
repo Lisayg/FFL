@@ -23,9 +23,9 @@ Building JavaScript Games by Arjan Egges (Apress, 2014) <br>
 LAB.js <br>
   https://github.com/getify/LABjs
 
-Special thanks to BTS & Jung Wan MOK! <br>
+Special thanks to BTS &  science communicator, Jung Wan MOK! <br>
 
-MIT License (c) Copyright Lisa y. GWON (Diligitis, 2018) 
+MIT License (c) Copyright Lisa Y. GWON (Diligitis, 2018) 
 
 Licensed under Creative Commons: By Attribution 3.0 License<br>
 http://creativecommons.org/licenses/by/3.0/
