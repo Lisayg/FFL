@@ -2,16 +2,15 @@
 
 <hr>
 
-Hi there!<br><br>
-This is my first JS game.<br>
+Hi there! This is my first JS game. 
 Have fun, and good luck!
 
 <h3>Keys & Mouse:</h3>
-* 'W' : Increase power.<br>
-* 'S' : Decrease power.<br>
-* 'Esc' : Return to menu.<br>
+* 'W' : power up <br>
+* 'S' : power down <br>
+* 'Esc' : Return to menu <br>
 * click : shoot <br>
-* Aim by moving cursor<br>
+* Mouse : Aim: <br>
 
 <h3>Demo:</h3>
 https://lisayg.github.io/FFP/
@@ -20,10 +19,9 @@ https://lisayg.github.io/FFP/
 * Building JavaScript Games by Arjan Egges (Apress, 2014):<br>
   https://github.com/apress/building-javascript-games
   
-  <br>
-* LAB.js :<br>
+  
+* LAB.js :
   https://github.com/getify/LABjs
-  <br>
 
 MIT License
 
