@@ -2,7 +2,7 @@
 
 <hr>
 
-Hi there! This is my first FFL project. <br>
+Hi there! This is my first BIO project. <br>
 Have fun, and good luck!
 
 <h3>Keys & Mouse:</h3>
