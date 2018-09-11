@@ -2,7 +2,7 @@
 
 <hr>
 
-Hi there! This is my first JS game. 
+Hi there! This is my first FFL project. <br>
 Have fun, and good luck!
 
 <h3>Keys & Mouse:</h3>
