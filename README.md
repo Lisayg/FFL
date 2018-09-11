@@ -16,11 +16,10 @@ Have fun, and good luck!
 https://lisayg.github.io/FFP/
 
 <h3>Credits:</h3>
-* Building JavaScript Games by Arjan Egges (Apress, 2014)
+  Building JavaScript Games by Arjan Egges (Apress, 2014)
   https://github.com/apress/building-javascript-games
   
-  
-* LAB.js 
+  LAB.js 
   https://github.com/getify/LABjs
 
 MIT License
