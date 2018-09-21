@@ -2,8 +2,8 @@
 
 <hr>
 
-Hi there! This is my first BIO project. <br>
-Have fun, and good luck!
+Hi there! This is my bio-design project. <br>
+Have fun, and good luck to all!
 
 <h3>Keys & Mouse:</h3>
 * W : power up <br>
