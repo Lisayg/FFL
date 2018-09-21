@@ -9,8 +9,8 @@ Have fun, and good luck to all!
 * W : power up <br>
 * S : power down <br>
 * Esc : menu <br>
-* click : shoot <br>
-* Mouse : Aim <br>
+* Click : shoot <br>
+* Mouse : aim <br>
 
 <h3>Demo:</h3>
 https://lisayg.github.io/FFP/
