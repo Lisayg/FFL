@@ -5,11 +5,11 @@
 Hi there! This is my bio-design project. <br>
 Have fun, and good luck to all!
 
-<h3>Keys & Mouse:</h3>
+<h3>Keys & Mouse </h3>
 * W : power up <br>
 * S : power down <br>
-* Esc : menu <br>
-* Click : shoot <br>
+* Esc : back to menu <br>
+* Click : shoot! <br>
 * Mouse : aim <br>
 
 <h3>Demo:</h3>
