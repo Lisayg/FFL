@@ -22,12 +22,12 @@ Building JavaScript Games by Arjan Egges (Apress, 2014) <br>
   
 LAB.js <br>
   https://github.com/getify/LABjs
-
-Very special thanks to BTS, CHUNG HA & Jung Wan Mok! <br>
-
+  
 MIT License (c) Copyright Lisa Y. GWON (Diligitis, 2018) <br>
 Licensed under Creative Commons: By Attribution 3.0 License<br>
 http://creativecommons.org/licenses/by/3.0/
+
+Very special thanks to BTS, CHUNG HA & Jung Wan Mok! <br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
