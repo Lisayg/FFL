@@ -25,7 +25,7 @@ LAB.js <br>
 
 Very special thanks to BTS, CHUNG HA & Jung Wan Mok! <br>
 
-MIT License (c) Copyright Lisa Y. GWON (Diligitis, 2018) 
+MIT License (c) Copyright Lisa Y. GWON (Diligitis, 2018) <br>
 Licensed under Creative Commons: By Attribution 3.0 License<br>
 http://creativecommons.org/licenses/by/3.0/
 
