@@ -13,7 +13,7 @@ function generateMainMenuLabels(headerText){
             "100px"
         ),
         new Label(
-            "© designed by LisayG. (Diligitis, 2018)", 
+            "MIT License © designed by Diligitis, 2018", 
             new Vector2(900,730),
             Vector2.zero,
             "white",
